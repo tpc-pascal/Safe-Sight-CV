@@ -18,7 +18,7 @@ Vui lòng đọc kỹ các hướng dẫn dưới đây trước khi bắt đầ
     * Sửa lỗi: `git checkout -b fix/ten-loi`
     * Tài liệu: `git checkout -b docs/ten-tai-lieu`
 3.  **Commit:** Sử dụng tiếng Việt hoặc tiếng Anh, nhưng phải rõ nghĩa.
-    * *Ví dụ:* `feat: bổ sung tính năng đặc biệt`
+    * *Ví dụ:* `feat: bổ sung tính năng`
 4.  **Push & PR:** Đẩy branch lên GitHub và tạo **Pull Request**.
 
 ---
@@ -43,5 +43,5 @@ Trước khi gửi Pull Request, vui lòng đảm bảo:
 
 Nếu có bất kỳ thắc mắc nào về luồng dữ liệu hoặc cấu trúc:
 
-* [Mở một Issue](https://github.com/tpc-pascal/.../issues) trên repo này.
-* Gửi câu hỏi qua phần [Thảo luận (Discussions)](https://github.com/tpc-pascal/.../discussions) của dự án.
+* [Mở một Issue](https://github.com/tpc-pascal/Safe-Sight-CV/issues) trên repo này.
+* Gửi câu hỏi qua phần [Thảo luận (Discussions)](https://github.com/tpc-pascal/Safe-Sight-CV/discussions) của dự án.
