@@ -36,7 +36,7 @@
 * **Model:** YOLOv5
 * **Framework:** PyTorch
 * **Language:** Python
-* **Dataset:** NudeNet
+* **Dataset:** COCODataSet
 
 ## 📂 Cấu trúc dự án
 

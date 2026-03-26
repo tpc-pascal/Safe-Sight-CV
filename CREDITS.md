@@ -11,7 +11,7 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | ... | ... | ... |
+| 1 | COCO | Bộ dữ liệu phổ biến có ngữ cảnh | [COCODataSet](https://cocodataset.org) |
 </details>
 
 ---
