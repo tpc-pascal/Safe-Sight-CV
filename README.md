@@ -44,5 +44,22 @@
 Safe-Sight-CV/
 ├── data/
 ├── model/
+├── .gitattributes
+├── .gitignore
+├── CONTRIBUTING.md
+├── CREDITS.md
+├── LICENSE
 ├── requirements.txt
 └── README.md
+```
+## 🚅 Bộ dữ liệu
+
+Đọc thêm tại [TRAINING_DATASET.md](./data/training/TRAINING_DATASET.md) và [TESTING_DATASET.md](./data/testing/TESTING_DATASET.md)
+
+## ✈ Hướng dẫn đóng góp
+
+Đọc thêm tại [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## 🙏 Nguồn tham khảo
+
+Đọc thêm tại [CREDITS.md](./CREDITS.md)
