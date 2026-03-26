@@ -11,7 +11,9 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | COCO | Bộ dữ liệu phổ biến có ngữ cảnh | [COCODataSet](https://cocodataset.org) |
+| 1 | **COCO** | Bộ dữ liệu phổ biến có ngữ cảnh | [COCODataSet](https://cocodataset.org) |
+| 2 | **Raghav Nanjappan** | Bộ dữ liệu nhận diện vũ khí | [Weapon Detection Dataset](https://www.kaggle.com/datasets/raghavnanjappan/weapon-dataset-for-yolov5) |
+| 3 | **ultralytics** | Mô hình thị giác máy tính xây dựng bằng framework PyTorch | [YOLOv5](https://github.com/ultralytics/yolov5) |
 </details>
 
 ---
@@ -22,6 +24,7 @@ Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tản
 
 * **Ngôn ngữ:** Python.
 * **Thị giác máy tính:** Ultralytics (YOLOv5).
+* **Bộ dữ liệu:** COCO
 
 ---
 
