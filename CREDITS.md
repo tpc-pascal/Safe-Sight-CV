@@ -26,7 +26,7 @@ Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tản
 
 * **Ngôn ngữ:** Python.
 * **Thị giác máy tính:** Ultralytics (YOLOv5).
-* **Bộ dữ liệu:** COCO
+* **Bộ dữ liệu:** COCO, Kaggle, Roboflow
 
 ---
 
