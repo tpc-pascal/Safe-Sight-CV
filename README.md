@@ -44,12 +44,17 @@
 Safe-Sight-CV/
 ├── data/
 ├── model/
+│   ├── weapon-detection/
+│   │   ├── Weapon_detection.yaml
+│   │   ├── Weapon.ipynb
+│   │   └── weapon-detection.pt
+│   ├── MODEL.md
+│   └── requirements.txt
 ├── .gitattributes
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md
 ├── LICENSE
-├── requirements.txt
 └── README.md
 ```
 ## 🚅 Bộ dữ liệu

@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Noi_Dung_Nhay_Cam/Safe-Sight-CV/weapon-dataset-mini/images/train
+val: /content/drive/MyDrive/Noi_Dung_Nhay_Cam/Safe-Sight-CV/weapon-dataset-mini/images/val
+nc: 2
+names: ['Knife', 'Handgun']
