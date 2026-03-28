@@ -45,8 +45,9 @@ Safe-Sight-CV/
 ├── data/
 ├── model/
 │   ├── weapon-detection/
-│   │   ├── Weapon_detection.yaml
+│   │   ├── result/
 │   │   ├── Weapon.ipynb
+│   │   ├── Weapon_detection.yaml
 │   │   └── weapon-detection.pt
 │   ├── MODEL.md
 │   └── requirements.txt
