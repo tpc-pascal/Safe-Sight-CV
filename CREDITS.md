@@ -15,7 +15,8 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 | 2 | **Raghav Nanjappan** | Bộ dữ liệu nhận diện vũ khí | [Weapon Detection Dataset](https://www.kaggle.com/datasets/raghavnanjappan/weapon-dataset-for-yolov5) |
 | 3 | **ultralytics** | Mô hình thị giác máy tính xây dựng bằng framework PyTorch | [YOLOv5](https://github.com/ultralytics/yolov5) |
 | 4 | **Jay Pradip Shah** | Bộ dữ liệu nhận diện bộ bài | [Playing Card Dataset](https://www.kaggle.com/datasets/jaypradipshah/the-complete-playing-card-dataset) |
-| 5 | **Han Lee** | Bộ dữ liệu nhận diện hút thuốc | [Cigarette Smoker Detection](https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection) |
+| 5 | **Han Lee** | Bộ dữ liệu nhận diện hút thuốc 1 | [Cigarette Smoker Detection](https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection) |
+| 6 | **Sujay Kapadnis** | Bộ dữ liệu nhận diện hút thuốc 2 | [Smoker Detection](https://www.kaggle.com/datasets/sujaykapadnis/smoking) |
 
 </details>
 
