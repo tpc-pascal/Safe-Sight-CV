@@ -4,7 +4,29 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 ---
 
-## 📚 Tài liệu (Documents), Mô hình (Models) & Bộ dữ liệu (Datasets)
+## 📚 Tài liệu (Documents)
+
+<details open>
+<summary><b>Danh sách chi tiết</b></summary>
+
+| STT | Tác giả | Nội dung tham khảo | Liên kết |
+|:---:|:---|:---|:---|
+| 1 | **...** | ... | [...](...) |
+
+</details>
+
+## Mô hình (Models)
+
+<details open>
+<summary><b>Danh sách chi tiết</b></summary>
+
+| STT | Tác giả | Nội dung tham khảo | Liên kết |
+|:---:|:---|:---|:---|
+| 1 | **ultralytics** | Mô hình thị giác máy tính xây dựng bằng framework PyTorch | [YOLOv5](https://github.com/ultralytics/yolov5) |
+
+</details>
+
+## Bộ dữ liệu (Datasets)
 
 <details open>
 <summary><b>Danh sách chi tiết</b></summary>
@@ -13,10 +35,9 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 |:---:|:---|:---|:---|
 | 1 | **COCO** | Bộ dữ liệu phổ biến có ngữ cảnh | [COCODataSet](https://cocodataset.org) |
 | 2 | **Raghav Nanjappan** | Bộ dữ liệu nhận diện vũ khí | [Weapon Detection Dataset](https://www.kaggle.com/datasets/raghavnanjappan/weapon-dataset-for-yolov5) |
-| 3 | **ultralytics** | Mô hình thị giác máy tính xây dựng bằng framework PyTorch | [YOLOv5](https://github.com/ultralytics/yolov5) |
-| 4 | **Jay Pradip Shah** | Bộ dữ liệu nhận diện bộ bài | [Playing Card Dataset](https://www.kaggle.com/datasets/jaypradipshah/the-complete-playing-card-dataset) |
-| 5 | **Han Lee** | Bộ dữ liệu nhận diện hút thuốc 1 | [Cigarette Smoker Detection](https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection) |
-| 6 | **Sujay Kapadnis** | Bộ dữ liệu nhận diện hút thuốc 2 | [Smoker Detection](https://www.kaggle.com/datasets/sujaykapadnis/smoking) |
+| 3 | **Jay Pradip Shah** | Bộ dữ liệu nhận diện bộ bài | [Playing Card Dataset](https://www.kaggle.com/datasets/jaypradipshah/the-complete-playing-card-dataset) |
+| 4 | **Han Lee** | Bộ dữ liệu nhận diện hút thuốc 1 | [Cigarette Smoker Detection](https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection) |
+| 5 | **Sujay Kapadnis** | Bộ dữ liệu nhận diện hút thuốc 2 | [Smoker Detection](https://www.kaggle.com/datasets/sujaykapadnis/smoking) |
 
 </details>
 
