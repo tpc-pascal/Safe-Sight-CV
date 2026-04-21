@@ -40,7 +40,7 @@
 
 ## 📂 Cấu trúc dự án
 
-```text
+```
 Safe-Sight-CV/
 ├── data/
 ├── model/
